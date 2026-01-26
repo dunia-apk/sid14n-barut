@@ -1,9 +1,9 @@
 {
   "appId": "com.duniandis.presensi",
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "minSupportedVersionCode": 1,
-  "downloadUrl": "https://github.com/duniandis/update_apk/releases/download/presensi_v1_0/presensiV10.apk",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "minSupportedVersionCode": 2,
+  "downloadUrl": "https://github.com/dunia-apk/sid14n-barut/releases/download/V.1.0/presensi_V1_0.apk",
   "title": "Update Wajib",
   "message": "Versi aplikasi Anda sudah tidak didukung. Silakan update untuk melanjutkan.",
   "changelog": "- Perbaikan bug\n- Peningkatan performa"
