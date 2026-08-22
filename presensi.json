@@ -1,10 +1,10 @@
 {
   "appId": "com.sid14n.presensi",
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "minSupportedVersionCode": 1,
-  "downloadUrl": "https://github.com/dunia-apk/sid14n-barut/releases/download/V.1.0/presensi_V1_0.apk",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "minSupportedVersionCode": 2,
+  "downloadUrl": "https://github.com/dunia-apk/sid14n-barut/releases/download/v2/presensi_V2.apk",
   "title": "Update Wajib",
   "message": "Versi aplikasi Anda sudah tidak didukung. Silakan update untuk melanjutkan.",
-  "changelog": "- Perbaikan bug\n- Peningkatan performa"
+  "changelog": "- Mengikuti Update SIDI4N Mobile\n- Peningkatan performa"
 }
